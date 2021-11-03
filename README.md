@@ -1,6 +1,6 @@
 ### Hello, I am Mateus
 
-🔭 I’m currently working with Python and Automation
+🔭 I’m currently working with Python, Ruby and Automation
 
 🌱 I’m currently learning Selenium and Cucumber
 
