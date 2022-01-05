@@ -22,7 +22,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/ruby-original.svg">
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="left" alt="Goku" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7b94d7e-529f-4dda-9956-80c25daf6314/d12cb71-da739c8a-56cc-463c-a297-dcc2f9a2e0b8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9lN2I5NGQ3ZS01MjlmLTRkZGEtOTk1Ni04MGMyNWRhZjYzMTQvZDEyY2I3MS1kYTczOWM4YS01NmNjLTQ2M2MtYTI5Ny1kY2MyZjlhMmUwYjgucG5nIn1dXX0.WHTARhQy3A3XZ2K2BkL6KRtw-RAGLDcneGse2m1TKZw">
 </div>
   <br/>
