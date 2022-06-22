@@ -1,12 +1,12 @@
 ### Hello, I am Mateus
 
-🔭 I’m currently working with Python, Ruby and Automation
+🔭 I’m currently working with Python, Ruby and Automation of APIs
 
-🌱 I’m currently learning Selenium and Cucumber
+🌱 I’m currently learning Selenium and Cucumber Karate/Gatling
 
 👯 I’m looking to collaborate on QA Testing, RPA and Webscraping
 
-🤔 I’m looking for help with DevOPS
+🤔 I’m looking for Intenational Experiences
 
 📫 How to reach me: mateus0992@gmail.com
 
