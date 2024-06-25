@@ -1,8 +1,10 @@
 ### Hello, I am Mateus
 
-🔭 I’m currently working with Python, Ruby and Automation of APIs
+🔭 I’m currently working with Python, Ruby, JS and Automation of APIs
 
-🌱 I’m currently learning Selenium and Cucumber Karate/Gatling
+🌱 I’m currently workking with Selenium and Cucumber Karate/Gatling
+
+🌱 I’m also expanding my knowledges about Playwright
 
 👯 I’m looking to collaborate on QA Testing, RPA and Webscraping
 
